@@ -1,7 +1,7 @@
 
               Isa Maindi
 
-Welcome to my GitHub profile
+      Welcome to my GitHub profile
 
 I am a passionate software developer from Kenya with a strong interest in building digital systems that solve real-world problems. I focus on web and Java-based applications and enjoy working on innovative projects that bring value to businesses and communities.
 
@@ -16,99 +16,99 @@ I am a passionate software developer from Kenya with a strong interest in buildi
 
              Technical Skills 
 
-     Languages
+              Languages
 
-Java  
+      Java  
 A versatile object-oriented programming language used to build robust backend systems, Android applications, and enterprise-level solutions. I use it for logic-heavy systems and full application development.
 
-HTML (HyperText Markup Language) 
+    HTML (HyperText Markup Language) 
 
 The fundamental structure of web pages. I use HTML to build layouts and organize website content across all web projects.
 
-CSS (Cascading Style Sheets)  
+    CSS (Cascading Style Sheets)  
 
 Used to style and design websites. I apply CSS to make web interfaces responsive, attractive, and consistent across devices.
 
-JavaScript  
+    JavaScript  
 
 A client-side scripting language that enables interactivity in websites. I use JavaScript for DOM manipulation, form validation, dynamic UI changes, and animations.
 
-PHP (Basics)  
+    PHP (Basics)  
 
 A backend scripting language used mainly for server-side logic. I’ve applied PHP for basic CRUD operations, contact forms, and user session handling.
 
-SQL (Structured Query Language)  
+    SQL (Structured Query Language)  
 
 A standard language for managing and querying relational databases. I use SQL to create tables, retrieve records, and handle database logic in projects that require persistent storage.
 
         Frameworks and Libraries
 
-Spring Boot  
+    Spring Boot  
 
 A Java-based framework for building REST APIs and microservices. I’m learning and applying Spring Boot for secure, scalable backend systems.
 
-Bootstrap  
+    Bootstrap  
 
 A CSS framework that simplifies the design process by offering pre-designed components. I use Bootstrap for building mobile-responsive, clean UIs quickly.
 
-jQuery  
+    jQuery  
 
 A JavaScript library that makes it easier to work with the DOM, handle events, and manage animations. I use jQuery to simplify client-side scripting tasks.
 
-React (Learning)  
+    React (Learning)  
 
 A modern JavaScript library for building fast, dynamic frontends with reusable components. I’m currently learning React to create interactive, state-managed user interfaces.
 
 Tools and Platforms
 
-Git 
+    Git 
 
 A version control tool that helps manage code changes and collaborations across projects. I use Git to track progress, experiment safely, and work in teams.
 
-GitHub  
+    GitHub  
 
 A cloud-based platform for hosting Git repositories. I use GitHub to publish my projects, maintain portfolios, and collaborate on code with others.
 
-Firebase 
+    Firebase 
 
 A platform by Google offering backend services such as real-time databases and user authentication. I use Firebase in projects that require fast, cloud-based backend support.
 
-VS Code (Visual Studio Code) 
+    VS Code (Visual Studio Code) 
 
 My main code editor for web and general-purpose programming. Offers excellent extension support and debugging capabilities.
 
-IntelliJ IDEA  
+    IntelliJ IDEA  
 
 A powerful Java IDE. I use IntelliJ for larger-scale Java applications due to its intelligent code assistance and integrated build tools.
 
-NetBeans  
+    NetBeans  
 
 An alternative Java IDE used during my university projects. Suitable for smaller or academic Java-based applications.
 
-XAMPP  
+    XAMPP  
 
 A local server environment for testing PHP, MySQL, and Apache-based web applications. I use it to simulate live environments for development.
 
-Postman 
+    Postman 
 
 An API testing and documentation tool. I use Postman to send requests to backend endpoints, debug API responses, and test REST services.
 
 
 
-               My Projects
+         My Projects
 
-JuaKaliHub  
+         JuaKaliHub  
 A web-based platform connecting informal workers such as fundis, plumbers, and tailors with clients. Built using HTML, CSS, and JavaScript. Includes job registration, search features, and a responsive dashboard.  
 GitHub: https://github.com/isaya-maindi/juakalihub
 
-DXC Social Platform  
+       DXC Social Platform  
 A modern social media platform for professionals. Inspired by LinkedIn and includes features like user login, posting, and search. Built with HTML, CSS, and JavaScript.  
 GitHub: https://github.com/isaya-maindi/dxc-social
 
-Personalized Learning System  
+      Personalized Learning System  
 An intelligent desktop learning system that uses user behavior to suggest courses and learning materials. Built in Java with features like persistent login, AI recommendations, and progress tracking.
 
-E-commerce Platform  
+     E-commerce Platform  
 A digital marketplace for buying and selling virtual products. Features include shopping cart, product pages, and simulated payments. Built with HTML, CSS, JavaScript, and PHP.
 
             Education
@@ -122,7 +122,7 @@ Focus areas: Software development,software engineering, computer science,informa
 Email: isayamaindi001@gmail.com  
 GitHub: https://github.com/isamai001
 
-          Goals for 2025
+         Goals for 2025
 
 - Build and launch a mobile version of JuaKaliHub  
 - Complete backend development using Spring Boot for existing platforms  
