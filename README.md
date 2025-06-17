@@ -1,17 +1,47 @@
 
               Isa Maindi
 
-      Welcome to my GitHub profile
+Welcome to my GitHub profile!
+            
+              About Me
 
 I am a passionate software developer from Kenya with a strong interest in building digital systems that solve real-world problems. I focus on web and Java-based applications and enjoy working on innovative projects that bring value to businesses and communities.
 
-                About Me
+ Current Focus: Actively working on full-stack web applications with an emphasis on scalable architectures, user experience, and data-driven features.
 
-- I am currently working on full-stack web applications and educational platforms.
-- I have developed several systems including JuaKaliHub, a social platform called DXC, and a personalized learning system.
-- I am currently learning Spring Boot, REST APIs, and React.js.
-- My interests include education technology, financial technology, artificial intelligence, and digital entrepreneurship.
-- Tools I frequently use include VS Code, GitHub, IntelliJ IDEA, Firebase, and Postman.
+ Projects Developed:
+
+JuaKaliHub – A platform connecting skilled informal workers with clients through a searchable and categorized job portal.
+
+DXC Social Platform – A professional networking platform modeled on LinkedIn, designed for fostering innovation and collaboration.
+
+Personalized Learning System – An adaptive e-learning tool that leverages AI to tailor learning paths based on user behavior and progress.
+
+ Learning Journey: Currently expanding my backend and frontend capabilities by learning Spring Boot, RESTful APIs, and React.js, while exploring deeper integrations with Firebase and cloud services.
+
+⚙️ Tech Interests:
+
+Education Technology (EdTech) – Empowering learners with personalized and accessible digital tools.
+
+Financial Technology (FinTech) – Innovating solutions for digital payments and financial inclusion.
+
+Artificial Intelligence – Exploring ways to integrate AI into learning, automation, and analytics.
+
+Digital Entrepreneurship – Building impactful digital products and startups that address local and global challenges.
+
+ Toolbox:
+
+Code & IDEs: VS Code, IntelliJ IDEA, Android Studio
+
+Version Control: Git & GitHub
+
+Databases & Hosting: Firebase, MySQL, Render, Railway
+
+APIs & Testing: Postman, Swagger, Insomnia
+
+Other: Figma for UI/UX prototyping, Notion for planning, Trello for agile workflow
+
+
 
 
              Technical Skills 
@@ -97,21 +127,24 @@ An API testing and documentation tool. I use Postman to send requests to backend
 
          My Projects
 
-         JuaKaliHub  
+  JuaKaliHub  
 A web-based platform connecting informal workers such as fundis, plumbers, and tailors with clients. Built using HTML, CSS, and JavaScript. Includes job registration, search features, and a responsive dashboard.  
 GitHub: https://github.com/isaya-maindi/juakalihub
 
-       DXC Social Platform  
+  DXC Social Platform  
+  
 A modern social media platform for professionals. Inspired by LinkedIn and includes features like user login, posting, and search. Built with HTML, CSS, and JavaScript.  
 GitHub: https://github.com/isaya-maindi/dxc-social
 
-      Personalized Learning System  
+ Personalized Learning System  
+ 
 An intelligent desktop learning system that uses user behavior to suggest courses and learning materials. Built in Java with features like persistent login, AI recommendations, and progress tracking.
 
-     E-commerce Platform  
+E-commerce Platform  
+
 A digital marketplace for buying and selling virtual products. Features include shopping cart, product pages, and simulated payments. Built with HTML, CSS, JavaScript, and PHP.
 
-            Education
+ Education
 
 Bachelor of Science in Computer Science  
 MULTIMEDIA UNIVERSITY OF KENYA 
@@ -121,8 +154,8 @@ Focus areas: Software development,software engineering, computer science,informa
 
 Email: isayamaindi001@gmail.com  
 GitHub: https://github.com/isamai001
-
-         Goals for 2025
+Phone/Whatsapp : 0707709042         
+           Goals for 2025
 
 - Build and launch a mobile version of JuaKaliHub  
 - Complete backend development using Spring Boot for existing platforms  
