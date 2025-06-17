@@ -48,78 +48,78 @@ Other: Figma for UI/UX prototyping, Notion for planning, Trello for agile workfl
 
               Languages
 
-      Java  
+   Java  
 A versatile object-oriented programming language used to build robust backend systems, Android applications, and enterprise-level solutions. I use it for logic-heavy systems and full application development.
 
-    HTML (HyperText Markup Language) 
+  HTML (HyperText Markup Language) 
 
 The fundamental structure of web pages. I use HTML to build layouts and organize website content across all web projects.
 
-    CSS (Cascading Style Sheets)  
+ CSS (Cascading Style Sheets)  
 
 Used to style and design websites. I apply CSS to make web interfaces responsive, attractive, and consistent across devices.
 
-    JavaScript  
+JavaScript  
 
 A client-side scripting language that enables interactivity in websites. I use JavaScript for DOM manipulation, form validation, dynamic UI changes, and animations.
 
-    PHP (Basics)  
+PHP (Basics)  
 
 A backend scripting language used mainly for server-side logic. I’ve applied PHP for basic CRUD operations, contact forms, and user session handling.
 
-    SQL (Structured Query Language)  
+ SQL (Structured Query Language)  
 
 A standard language for managing and querying relational databases. I use SQL to create tables, retrieve records, and handle database logic in projects that require persistent storage.
 
         Frameworks and Libraries
 
-    Spring Boot  
+   Spring Boot  
 
 A Java-based framework for building REST APIs and microservices. I’m learning and applying Spring Boot for secure, scalable backend systems.
 
-    Bootstrap  
+  Bootstrap  
 
 A CSS framework that simplifies the design process by offering pre-designed components. I use Bootstrap for building mobile-responsive, clean UIs quickly.
 
-    jQuery  
+  jQuery  
 
 A JavaScript library that makes it easier to work with the DOM, handle events, and manage animations. I use jQuery to simplify client-side scripting tasks.
 
-    React (Learning)  
+   React (Learning)  
 
 A modern JavaScript library for building fast, dynamic frontends with reusable components. I’m currently learning React to create interactive, state-managed user interfaces.
 
-Tools and Platforms
+    Tools and Platforms
 
-    Git 
+   Git 
 
 A version control tool that helps manage code changes and collaborations across projects. I use Git to track progress, experiment safely, and work in teams.
 
-    GitHub  
+   GitHub  
 
 A cloud-based platform for hosting Git repositories. I use GitHub to publish my projects, maintain portfolios, and collaborate on code with others.
 
-    Firebase 
+   Firebase 
 
 A platform by Google offering backend services such as real-time databases and user authentication. I use Firebase in projects that require fast, cloud-based backend support.
 
-    VS Code (Visual Studio Code) 
+   VS Code (Visual Studio Code) 
 
 My main code editor for web and general-purpose programming. Offers excellent extension support and debugging capabilities.
 
-    IntelliJ IDEA  
+  IntelliJ IDEA  
 
 A powerful Java IDE. I use IntelliJ for larger-scale Java applications due to its intelligent code assistance and integrated build tools.
 
-    NetBeans  
+   NetBeans  
 
 An alternative Java IDE used during my university projects. Suitable for smaller or academic Java-based applications.
 
-    XAMPP  
+   XAMPP  
 
 A local server environment for testing PHP, MySQL, and Apache-based web applications. I use it to simulate live environments for development.
 
-    Postman 
+  Postman 
 
 An API testing and documentation tool. I use Postman to send requests to backend endpoints, debug API responses, and test REST services.
 
@@ -144,23 +144,48 @@ E-commerce Platform
 
 A digital marketplace for buying and selling virtual products. Features include shopping cart, product pages, and simulated payments. Built with HTML, CSS, JavaScript, and PHP.
 
- Education
+Silo Modern Furniture 
+
+A modern furniture website with seamless and superb interactivity , responsiveness and user friendly
+
+    Education
 
 Bachelor of Science in Computer Science  
 MULTIMEDIA UNIVERSITY OF KENYA 
 Focus areas: Software development,software engineering, computer science,information technology, system architecture, data structures, and AI.
 
+POWERLEARN ACADEMY 
+An online base institution that focuses on software development and database management tutoring including mySql
+
            Contact
 
 Email: isayamaindi001@gmail.com  
 GitHub: https://github.com/isamai001
-Phone/Whatsapp : 0707709042         
-           Goals for 2025
+         
+           
+    Goals & Current Focus
 
-- Build and launch a mobile version of JuaKaliHub  
-- Complete backend development using Spring Boot for existing platforms  
-- Contribute to open-source projects and developer communities  
-- Share tech knowledge with young developers across Africa
+Build and launch a mobile version of JuaKaliHub to improve accessibility and usability for mobile users.
+
+Complete backend development using Spring Boot and REST APIs for existing full-stack platforms.
+
+Actively contribute to open-source projects and engage with developer communities to foster growth and collaboration.
+
+Share technical knowledge through documentation, tutorials, and mentorship, particularly aimed at young developers across Africa.
+
+Develop and publish free educational resources, including blog articles and code walkthroughs focused on web development, Java, and practical software engineering.
+
+Research and build solutions in Education Technology and Financial Technology, tailored to local contexts and user needs.
+
+Enhance expertise in software architecture, cloud deployment, and CI/CD pipelines to deliver production-ready applications.
+
+Learn and apply AI and Machine Learning techniques for use in smart, adaptive systems.
+
+Explore cross-platform mobile development using tools like Flutter or React Native to speed up delivery and unify the user experience.
+
+Collaborate with other developers and digital entrepreneurs to create impactful, scalable tech solutions.
+
+
 
              Quote
 
