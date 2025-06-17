@@ -46,6 +46,9 @@ Other: Figma for UI/UX prototyping, Notion for planning, Trello for agile workfl
 
              Technical Skills 
 
+
+             
+
               Languages
 
    Java  
@@ -144,7 +147,6 @@ http://digital-learn-hub.netlify.app
 E-commerce Platform  
 
 A digital marketplace for buying and selling virtual products. Features include shopping cart, product pages, and simulated payments. Built with HTML, CSS, JavaScript, and PHP.
-http://digital-learn-hub.netlify.app
 
  Silo Modern Furniture
 Silo Modern Furniture is a sleek, contemporary furniture website crafted to deliver a seamless, highly interactive, and responsive user experience. It is designed with modern aesthetics in mind, showcasing high-quality furniture products while prioritizing usability, performance, and customer engagement.
