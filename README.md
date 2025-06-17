@@ -131,22 +131,24 @@ An API testing and documentation tool. I use Postman to send requests to backend
 A web-based platform connecting informal workers such as fundis, plumbers, and tailors with clients. Built using HTML, CSS, and JavaScript. Includes job registration, search features, and a responsive dashboard.  
 GitHub: https://github.com/isaya-maindi/juakalihub
 
-  DXC Social Platform  
-  
-A modern social media platform for professionals. Inspired by LinkedIn and includes features like user login, posting, and search. Built with HTML, CSS, and JavaScript.  
-GitHub: https://github.com/isaya-maindi/dxc-social
+ Modern Weather System
+ 
+A Modern Weather System is an advanced, responsive, and user-friendly application designed to provide accurate and real-time weather updates. Built using the latest web technologies, this system offers seamless access to current weather conditions, forecasts, and other climate-related information for any location worldwide. 
+https://welled-weathersphere-0827a6.netlify.app/
 
  Personalized Learning System  
  
 An intelligent desktop learning system that uses user behavior to suggest courses and learning materials. Built in Java with features like persistent login, AI recommendations, and progress tracking.
+http://digital-learn-hub.netlify.app
 
 E-commerce Platform  
 
 A digital marketplace for buying and selling virtual products. Features include shopping cart, product pages, and simulated payments. Built with HTML, CSS, JavaScript, and PHP.
+http://digital-learn-hub.netlify.app
 
-Silo Modern Furniture 
-
-A modern furniture website with seamless and superb interactivity , responsiveness and user friendly
+ Silo Modern Furniture
+Silo Modern Furniture is a sleek, contemporary furniture website crafted to deliver a seamless, highly interactive, and responsive user experience. It is designed with modern aesthetics in mind, showcasing high-quality furniture products while prioritizing usability, performance, and customer engagement.
+[IN POROGRESS]
 
     Education
 
